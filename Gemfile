@@ -17,6 +17,10 @@ gem "puma", "~> 5.0"
 
 gem 'font-awesome-sass', '~> 6.5.2'
 
+gem 'devise'
+
+gem 'pg'
+
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
 
